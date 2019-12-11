@@ -7,7 +7,19 @@ html {
   box-sizing: inherit;
 }
 
-div {
-  padding: .5rem;
+body {
   text-align: center;
+}
+
+div {
+  text-align: center;
+  padding: .3em;
+}
+
+.btn:hover {
+  background-color: #000;
+}
+
+.btn-subtle:hover {
+  background-color: #666;
 }
